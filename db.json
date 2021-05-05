@@ -1,0 +1,74 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "ENGL.210",
+      "prof": "Evelina",
+      "updates": [
+          {
+              "title": "End of Semester",
+              "description": "Hope you had fun"
+          }, {
+              "title": "Deadline Extended",
+              "description": "The deadline has been extended"
+          }
+      ],
+      "classlist": [
+          {
+              "fName": "Otto",
+              "lName": "Goldschmidt"
+          }, {
+              "fName": "Some",
+              "lName": "Dude"
+          }
+      ],
+      "content": [
+          {
+              "title": "Book",
+              "description": "Some Book"
+          }
+      ],
+      "grades": [
+          {
+              "gradeLetter": "A",
+              "description": "Amazing"
+          }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "ENGL.210",
+      "prof": "Evelina",
+      "updates": [
+          {
+              "title": "End of Semester",
+              "description": "Hope you had fun"
+          }, {
+              "title": "Deadline Extended",
+              "description": "The deadline has been extended"
+          }
+      ],
+      "classlist": [
+          {
+              "fName": "Otto",
+              "lName": "Goldschmidt"
+          }, {
+              "fName": "Some",
+              "lName": "Dude"
+          }
+      ],
+      "content": [
+          {
+              "title": "Book",
+              "description": "Some Book"
+          }
+      ],
+      "grades": [
+          {
+              "gradeLetter": "A",
+              "description": "Amazing"
+          }
+      ]
+    }
+  ]
+}
