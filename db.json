@@ -37,15 +37,15 @@
     },
     {
       "id": 2,
-      "name": "ENGL.210",
-      "prof": "Evelina",
+      "name": "ISTE.456",
+      "prof": "Saric",
       "updates": [
           {
               "title": "End of Semester",
-              "description": "Hope you had fun"
+              "description": "Kotlin Bad"
           }, {
-              "title": "Deadline Extended",
-              "description": "The deadline has been extended"
+              "title": "Please use swift",
+              "description": "It's just better"
           }
       ],
       "classlist": [
@@ -59,14 +59,49 @@
       ],
       "content": [
           {
-              "title": "Book",
-              "description": "Some Book"
+              "title": "Documentation",
+              "description": "Some pdf"
+          }
+      ],
+      "grades": [
+          {
+              "gradeLetter": "D",
+              "description": "Jesus christ dude"
+          }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "ISTE.501",
+      "prof": "Zagar",
+      "updates": [
+          {
+              "title": "Hope you had fun",
+              "description": "Cuz lord knows I did not"
+          }, {
+              "title": "Your projects were okay",
+              "description": "I guess"
+          }
+      ],
+      "classlist": [
+          {
+              "fName": "Otto",
+              "lName": "Goldschmidt"
+          }, {
+              "fName": "Helena",
+              "lName": "Gado"
+          }
+      ],
+      "content": [
+          {
+              "title": "Sponsor Letter",
+              "description": "PDF form"
           }
       ],
       "grades": [
           {
               "gradeLetter": "A",
-              "description": "Amazing"
+              "description": "Guess you were okay"
           }
       ]
     }
